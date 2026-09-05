@@ -9,7 +9,7 @@ GitHub: https://github.com/Harsheen-Kaur-Projects
 A governance framework for organizations deploying AI-assisted public services —
 built from real findings, not hypothetical risks.
 
-**Read the full framework:** [governance-framework.md](./governance-framework.md)
+**Read the full framework:** [governance-framework.md](https://github.com/Harsheen-Kaur-Projects/responsible-ai-governance-framework/blob/main/GOVERNANCE_FRAMEWORK.md)
 
 ## Why this exists
 
@@ -25,7 +25,7 @@ risk matrix and monitoring approach in this document.
 
 - **[Evaluation harness](https://github.com/Harsheen-Kaur-Projects/public-service-ai-evaluation-harness)** — measures whether the AI performs reliably
 - **[CivicAssist](https://github.com/Harsheen-Kaur-Projects/civicassist-product-case-study)** — decides what the product should do when evidence is or isn't available
-- **This framework** — decides how an organization manages that risk once the system is live, at scale, across countries
+- **[Governance-framework](https://github.com/Harsheen-Kaur-Projects/responsible-ai-governance-framework)** — decides how an organization manages that risk once the system is live, at scale, across countries
 
 ## What's inside
 
