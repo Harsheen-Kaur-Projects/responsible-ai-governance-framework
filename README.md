@@ -6,7 +6,7 @@ GitHub: https://github.com/Harsheen-Kaur-Projects
 
 # Responsible AI Governance Framework for Public-Service Deployments
 
-A governance framework for organizations deploying AI-assisted public services —
+A governance framework for organizations deploying AI-assisted public services -
 built from real findings, not hypothetical risks.
 
 **Read the full framework:** [governance-framework.md](https://github.com/Harsheen-Kaur-Projects/responsible-ai-governance-framework/blob/main/GOVERNANCE_FRAMEWORK.md)
@@ -17,7 +17,7 @@ Most AI governance frameworks are written before there's much evidence of what
 actually goes wrong. This one starts from an actual evaluation: my
 [Responsible AI Evaluation Harness](https://github.com/Harsheen-Kaur-Projects/public-service-ai-evaluation-harness)
 found that a real model's worst failures weren't on the adversarial questions
-designed to catch it — two of its three lowest scores came from ordinary,
+designed to catch it - two of its three lowest scores came from ordinary,
 unflagged social-protection questions. That single finding shapes the entire
 risk matrix and monitoring approach in this document.
 
@@ -36,14 +36,14 @@ risk matrix and monitoring approach in this document.
   escalation, post-deployment audit
 - Country-context considerations for low-connectivity, low-literacy, and
   varying regulatory environments
-- How this relates to existing frameworks — OECD AI Principles, UNDP's own
+- How this relates to existing frameworks - OECD AI Principles, UNDP's own
   Artificial Intelligence Landscape Assessment (AILA), the EU AI Act, and
   WHO's AI-in-health ethics guidance
 - A phased implementation roadmap (0–3, 3–6, 6–12 months)
 
 ## Limitations
 
-16 queries, one model family, single-country prototype — not validated in
+16 queries, one model family, single country prototype - not validated in
 production. Full limitations are listed at the end of the framework document.
 
 ## License
